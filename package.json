@@ -1,5 +1,5 @@
 {
-  "name": "Line Length Break",
+  "name": "line-length-break",
   "main": "./lib/line-length-break",
   "version": "0.1.0",
   "author": "Sebastian Senf <@mustardamus>",
