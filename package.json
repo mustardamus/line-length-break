@@ -1,7 +1,7 @@
 {
   "name": "line-length-break",
   "main": "./lib/line-length-break",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Sebastian Senf <@mustardamus>",
   "description": "Break all lines that go over the preferred line length.",
   "activationEvents": ["line-length-break:break"],
