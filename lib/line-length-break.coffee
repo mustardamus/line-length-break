@@ -1,6 +1,7 @@
 module.exports =
   activate: (state) ->
-    atom.workspaceView.command 'line-length-break:break', => @breakLines()
+    atom.commands.add 'atom-workspace', 'line-length-break:break', =>
+      @breakLines()
 
   breakLines: ->
     editor     = atom.workspace.getActivePaneItem()
