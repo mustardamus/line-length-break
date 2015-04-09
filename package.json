@@ -1,10 +1,13 @@
 {
   "name": "line-length-break",
   "main": "./lib/line-length-break",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "author": "Sebastian Senf <me@akrasia.me>",
   "contributers": [
-    { "name": "Ziga", "email": "zigomir@gmail.com" }
+    {
+      "name": "Ziga",
+      "email": "zigomir@gmail.com"
+    }
   ],
   "description": "Break all lines that go over the preferred line length.",
   "activationEvents": [
