@@ -1,7 +1,7 @@
 {
   "name": "line-length-break",
   "main": "./lib/line-length-break",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Sebastian Senf <@mustardamus>",
   "description": "Break all lines that go over the preferred line length.",
   "activationEvents": [
@@ -10,7 +10,7 @@
   "repository": "https://github.com/mustardamus/line-length-break",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {}
 }
