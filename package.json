@@ -1,7 +1,7 @@
 {
   "name": "line-length-break",
   "main": "./lib/line-length-break",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "Sebastian Senf <me@akrasia.me>",
   "contributers": [
     {
@@ -11,7 +11,9 @@
   ],
   "description": "Break all lines that go over the preferred line length.",
   "activationCommands": {
-    "atom-text-editor": ["line-length-break:break"]
+    "atom-text-editor": [
+      "line-length-break:break"
+    ]
   },
   "repository": "https://github.com/mustardamus/line-length-break",
   "license": "MIT",
